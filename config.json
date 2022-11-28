@@ -1,0 +1,12 @@
+{
+    "Version": "2012-10-17",
+        "region": "ap-northeast-1",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": "connect:StartOutboundVoiceContact",
+            "Resource": "arn:aws:ds:ap-northeast-1:825531502808:directory/d-956779f131"
+
+        }
+    ]
+    }
